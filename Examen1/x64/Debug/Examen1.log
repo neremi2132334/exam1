@@ -1,0 +1,14 @@
+﻿  Aventurier.cpp
+M:\code\Interface et base de données\Examen1\Examen1\Aventurier.h(21,2): error C2535: 'Aventurier::Aventurier(int)' : fonction membre déjà définie ou déclarée
+M:\code\Interface et base de données\Examen1\Examen1\Aventurier.h(13,2): message : voir la déclaration de 'Aventurier::Aventurier'
+M:\code\Interface et base de données\Examen1\Examen1\Aventurier.cpp(13,13): error C2084: la fonction 'Aventurier::Aventurier(int)' a déjà un corps
+M:\code\Interface et base de données\Examen1\Examen1\Aventurier.cpp(9,13): message : voir la définition précédente de '{ctor}'
+  Examen1.cpp
+M:\code\Interface et base de données\Examen1\Examen1\Aventurier.h(21,2): error C2535: 'Aventurier::Aventurier(int)' : fonction membre déjà définie ou déclarée
+M:\code\Interface et base de données\Examen1\Examen1\Aventurier.h(13,2): message : voir la déclaration de 'Aventurier::Aventurier'
+M:\code\Interface et base de données\Examen1\Examen1\Examen1.cpp(14,16): error C2065: 'niveau' : identificateur non déclaré
+  FactoryQuete.cpp
+  Quete.cpp
+  Utilitaire.cpp
+M:\code\Interface et base de données\Examen1\Examen1\Utilitaire.cpp(7,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  Génération de code en cours...
